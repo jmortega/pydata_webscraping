@@ -1,0 +1,140 @@
+{
+    "url": "/madrid2016/schedule/presentation/1/", 
+    "speaker": "Jaime Fernández", 
+    "description": "Advanced (a.k.a. \"fancy\") indexing is one of NumPy's greatest features.\nIt is also well known for its ability to trip and confuse beginners and\nexperts alike. This talk will review how it works and why it is great,\ngive some insight on why it is how it is, explore some of its darkest\ncorners, and go over some recent proposals to rationalize it.", 
+    "talk": "The Future of NumPy Indexing", 
+    "time": "Sunday            11:3012:15"
+}
+{
+    "url": "/madrid2016/schedule/presentation/12/", 
+    "speaker": "Ricardo Pio Monti", 
+    "description": "Deep Boltzmann machines (DBMs) are exciting for a variety of reasons, principal among which is the fact that they are able to learn probabilistic representations of data in an entirely unsupervised manner. In this talk I will discuss the process of fitting and interpreting DBMs using a topic modelling example as motivation.  ", 
+    "talk": "Modelling a text corpus using Deep Boltzmann Machines in python", 
+    "time": "Sunday            15:3016:15"
+}
+{
+    "url": "/madrid2016/schedule/presentation/6/", 
+    "speaker": "Claudia Guirao Fernández", 
+    "description": "Whoosh lets you index free-form or structured text and then quickly find matching documents based on simple or complex search criteria. Whoosh is a fast, pure Python search engine library.You can use Whoosh anywhere you can use Python, no compiler or Java required. ", 
+    "talk": "Whoosh: a fast pure-Python search engine library", 
+    "time": "Sunday            12:1513:00"
+}
+{
+    "url": "/madrid2016/schedule/presentation/11/", 
+    "speaker": "Miguel Sánchez de León Peque", 
+    "description": "Nowadays Python is the perfect environment for developing a real-time automated trading tool. In this talk we will discuss the development of: a general-purpose multiagent-system module using Pyro and ZeroMQ; a platform, based on it, for developing automated trading strategies using Numpy, Numba, Theano, etc.; and a GUI for visualizing real-time market data using PyQtGraph and Qt.", 
+    "talk": "Python for developing a real-time automated trading platform", 
+    "time": "Sunday            13:0013:45"
+}
+{
+    "url": "/madrid2016/schedule/presentation/17/", 
+    "speaker": "Alejandro Sáez Mollejo, Siro Moreno", 
+    "description": "The Aeropython’s guide to the Python Galaxy!  ", 
+    "talk": "Basic Python Packages for Science", 
+    "time": "Friday            9:3011:15"
+}
+{
+    "url": "/madrid2016/schedule/presentation/24/", 
+    "speaker": "Jesús Sánchez", 
+    "description": "Twitter has a lot of information that can be very useful if we know how to extract the relevant pieces. The main topic of the talk is to show an architecture (well tested in production). The architecture uses technologies like RabbitMQ, CouchDB, ElasticSearch, Kibana, a lot of Python and Spark Streaming with Scala. We will focus on the motivations to choose those components and how we extract the information and how we take the decisions about the obtained datasets.", 
+    "talk": "An Architecture to Tweet Them All", 
+    "time": "Sunday            17:3018:15"
+}
+{
+    "url": "/madrid2016/schedule/presentation/8/", 
+    "speaker": "Jesús Martos Carrizo, Alejandro Sáez Mollejo", 
+    "description": "The pursuit of safety in aviation is a task that requires our constant vigilance and effort. Throughout the use of a database from the NTSB the motivation of this talk is the use of different Python packages (Pandas, Scikit-learn) in order to answer multiple questions:\nIs commercial air transport safer now than 30 years ago?\nWhich flight phase is safer?\nWhich are the main accident causes?", 
+    "talk": "Remove before flight: Analysing flight safety data with Python", 
+    "time": "Sunday            16:1517:00"
+}
+{
+    "url": "/madrid2016/schedule/presentation/7/", 
+    "speaker": "Nathan Epstein", 
+    "description": "What is reinforcement learning and when is it useful? How can it be implemented and applied in Python? This talk will attempt to answer these questions. This will be accomplished in three main sections - an overview of reinforcement learning and its applications, implementation details of the algorithm using Python, and a Python demo of reinforcement learning applied to a real problem.", 
+    "talk": "Reinforcement Learning in Python", 
+    "time": "Sunday            10:1511:00"
+}
+{
+    "url": "/madrid2016/schedule/presentation/19/", 
+    "speaker": "Francesc Alted", 
+    "description": "Nowadays computers are being designed quite differently as they were made more than a decade ago; however, very little in  software architecture has changed in order to accommodate for the changes in the hardware architecture.  During my talk I am going to describe which those fundamental changes are and how to deal with them from the point of view of a long-time developer.", 
+    "talk": "Handling Big Data on Modern Computers: A Developer's View", 
+    "time": "Sunday            9:3010:15"
+}
+{
+    "url": "/madrid2016/schedule/presentation/20/", 
+    "speaker": "Antònia Tugores", 
+    "description": "How long would information originating from a given city require to reach any other city if were to pass from person to person only through face to face conversations? Or, what is the likelihood that information reaches a certain distance away after a given time period. We introduce a method to assess the attractiveness of cities using geolocated tweets as a proxy for human mobility.", 
+    "talk": "City attractiveness seen through Twitter", 
+    "time": "Saturday            17:3018:15"
+}
+{
+    "url": "/madrid2016/schedule/presentation/9/", 
+    "speaker": "Jose Manuel Ortega", 
+    "description": "If we want to extract the contents of a website automating information extraction, often we find that the website does not offer any API to get the data you need and It is necessary use scraping techniques to recover data from a Web automatically. Some of the most powerful tools for extracting the data in web pages can be found in the python ecosystem.", 
+    "talk": "Python tools for webscraping", 
+    "time": "Saturday            13:0013:45"
+}
+{
+    "url": "/madrid2016/schedule/presentation/14/", 
+    "speaker": "Pablo Manuel García Corzo", 
+    "description": "Are traditional monitoring solution ready for the software defined world (SDN/NFV) and the IoT? Analytics can’t be considered anymore as an extra but a must for diving in an ocean of data where threshold-based KPIs are not enough. We will attempt to identify lacks in current tools and design a full stack python monitoring+analytics framework capable to face the new challenges of today.", 
+    "talk": "Towards a full stack python monitoring+analytics framework", 
+    "time": "Saturday            16:1517:00"
+}
+{
+    "url": "/madrid2016/schedule/presentation/3/", 
+    "speaker": "Tomás Gómez Alvarez-Arenas", 
+    "description": "The concept of inverse problem (IP) is introduced and compared with complementary approaches (regression analysis, machine learning or bayesian inference). Solution of IPs by applying brute force, Gradient Descent (GD) and stochastic GD techniques is analyzed through some examples using time and frequency domain data: chirps, gravitational waves and resonant ultrasonic spectroscopy.", 
+    "talk": "The solution of inverse problems.", 
+    "time": "Saturday            15:3016:15"
+}
+{
+    "url": "/madrid2016/schedule/presentation/13/", 
+    "speaker": "Manuel Garrido Pena", 
+    "description": "Recommendation systems are one topic that most Data Scientists are familiar with. However, there is a lack of entry level, general view tutorials on the python ecosystem. This workshop will start with the basics, and implement recommendation engines with different degrees of complexity, and talk about Similarity Index , Content filtering and Collaborative filtering.", 
+    "talk": "A Primer on Recommendation Systems (Talk)", 
+    "time": "Saturday            12:1513:00"
+}
+{
+    "url": "/madrid2016/schedule/presentation/4/", 
+    "speaker": "Juan Luis Cano Rodríguez", 
+    "description": "Installation problems represent half of your mailing list traffic? Nobody in your team knows how to properly configure the Visual Studio compilers? Forcing your users to download a script full of \"sudo\" commands? Providing Docker containers and virtual machines as the only sane way to run your software? No more suffering or pain: create conda packages with conda-build and stop worrying today.", 
+    "talk": "Embrace conda packages: the build system we always needed, but never deserved", 
+    "time": "Saturday            11:3012:15"
+}
+{
+    "url": "/madrid2016/schedule/presentation/5/", 
+    "speaker": "Marc Garcia", 
+    "description": "No machine learning algorithm dominates in every domain, but random forests are usually tough to beat by much. And they have some advantages compared to other models. No much input preparation needed, implicit feature selection, fast to train, and ability to visualize the model. While it is easy to get started with random forests, a good understanding of the model is key to get the most of them.", 
+    "talk": "Understanding Random Forests", 
+    "time": "Saturday            10:1511:00"
+}
+{
+    "url": "/madrid2016/schedule/presentation/25/", 
+    "speaker": "Christine Doig", 
+    "description": ".", 
+    "talk": "A Hitchhiker's Guide to Data Science", 
+    "time": "Saturday            9:3010:15"
+}
+{
+    "url": "/madrid2016/schedule/presentation/16/", 
+    "speaker": "Francesc Alted", 
+    "description": "En nuestro trabajo de análisis normalmente nos centramos en usar algoritmos que nos permitan ejecutar nuestros objetivos de la manera más eficiente posible.  Sin embargo, cuando estamos usando grandes cantidades de datos, los ", 
+    "talk": "Usando contenedores para Big Data", 
+    "time": "Friday            17:1519:00"
+}
+{
+    "url": "/madrid2016/schedule/presentation/18/", 
+    "speaker": "Kiko Correoso", 
+    "description": "During the workshop the main features and capabilities of Pandas library will be reviewed.", 
+    "talk": "Pandas for beginners", 
+    "time": "Friday            11:4513:30"
+}
+{
+    "url": "/madrid2016/schedule/presentation/21/", 
+    "speaker": "Guillem Borrell", 
+    "description": "From big data to supercomputing, most modern high-performance tools are concurrent and parallel. This tutorial introduces some of the tools that are available in the Python ecosystem to develop, deploy and maintain modern and efficient distributed applications.", 
+    "talk": "Python for distributed systems", 
+    "time": "Friday            15:0016:45"
+}

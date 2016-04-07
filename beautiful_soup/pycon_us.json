@@ -1,0 +1,337 @@
+[
+    {
+        "href": "/2013/schedule/presentation/31/", 
+        "speaker": "Mel Chua", 
+        "title": "Digital signal processing through speech, hearing, and Python"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/28/", 
+        "speaker": "Diego Maniloff, Amr Hiram, Zach Howard", 
+        "title": "A beginner's introduction to Pydata: how to build a minimal recommendation engine."
+    }, 
+    {
+        "href": "/2013/schedule/presentation/20/", 
+        "speaker": "Fernando Perez, Brian Granger, Min RK", 
+        "title": "IPython in-depth: high-productivity interactive and parallel python"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/5/", 
+        "speaker": "Alexandra Strong, Katharine Jarmul, Christine Cheung", 
+        "title": "Python for Programmers: A Project-Based Tutorial"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/24/", 
+        "speaker": "Mike M\u00c3\u00bcller", 
+        "title": "Faster Python Programs through Optimization"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/1/", 
+        "speaker": "Jessica McKellar", 
+        "title": "A hands-on introduction to Python for beginning programmers"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/12/", 
+        "speaker": "Paul Everitt", 
+        "title": "Pyramid for Humans"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/8/", 
+        "speaker": "Karen Rustad, Asheesh Laroia", 
+        "title": "Going from web pages to web apps with Python"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/21/", 
+        "speaker": "Allen Downey", 
+        "title": "Bayesian statistics made simple"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/2/", 
+        "speaker": "David Beazley", 
+        "title": "Learn Python Through Public Data Hacking"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/25/", 
+        "speaker": "Andy Terrel, Travis Oliphant, Mark Florisson", 
+        "title": "Python beyond the CPU"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/9/", 
+        "speaker": "Nathan Yergler", 
+        "title": "Effective Django"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/6/", 
+        "speaker": "Matt Harrison", 
+        "title": "Hands-on Intermediate Python"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/17/", 
+        "speaker": "John Wetherill", 
+        "title": "Code to Cloud in under 45 minutes"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/29/", 
+        "speaker": "Maksim Tsvetovat, Alex Kouznetsov, Jacqueline Kazil", 
+        "title": "Analyzing Social Networks with Python"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/13/", 
+        "speaker": "Andrew Montalenti", 
+        "title": "Rapid Web Prototyping with Lightweight Tools"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/22/", 
+        "speaker": "Jake Vanderplas", 
+        "title": "An Introduction to scikit-learn: Machine Learning in Python"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/26/", 
+        "speaker": "Travis Oliphant, Peter Wang, Benjamin Zaitlen", 
+        "title": "Python for Data Analysis"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/10/", 
+        "speaker": "Harry Percival", 
+        "title": "Fully Test-Driven Web Development with Django and Selenium"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/14/", 
+        "speaker": "Mike Pirnat, David Stanek", 
+        "title": "Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/32/", 
+        "speaker": "Stuart Williams", 
+        "title": "Python Epiphanies"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/18/", 
+        "speaker": "Brandon Rhodes", 
+        "title": "Documenting Your Project in Sphinx"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/3/", 
+        "speaker": "Matt Harrison", 
+        "title": "Scripting: from Hard-drive to Github to PyPI"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/30/", 
+        "speaker": "Katherine Scott, Anthony Oliver", 
+        "title": "A Gentle Introduction to Computer Vision"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/4/", 
+        "speaker": "Jessica McKellar", 
+        "title": "Contribute with me! Getting started with open source development "
+    }, 
+    {
+        "href": "/2013/schedule/presentation/11/", 
+        "speaker": "Kenneth Love, Jacob Kaplan-Moss", 
+        "title": "Wiring up Django Packages"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/27/", 
+        "speaker": "Minesh B Amin, Ian Ozsvald", 
+        "title": "Applied Parallel Computing with Python"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/23/", 
+        "speaker": "Olivier Grisel", 
+        "title": "Advanced Machine Learning with scikit-learn"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/7/", 
+        "speaker": "David Beazley", 
+        "title": "Python 3 Metaprogramming"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/15/", 
+        "speaker": "Itamar Turner-Trauring", 
+        "title": "Intermediate Twisted: Test-Driven Networking Software"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/19/", 
+        "speaker": "Richard Jones", 
+        "title": "Introduction to PyGame"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/16/", 
+        "speaker": "Mike Bayer", 
+        "title": "Introduction to SQLAlchemy"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/218/", 
+        "speaker": "Jesse Noller", 
+        "title": "Opening Statements"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/213/", 
+        "speaker": "Eben Upton", 
+        "title": "Keynote"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/116/", 
+        "speaker": "Chad Whitacre", 
+        "title": "Gittip: Inspiring Generosity"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/106/", 
+        "speaker": "Rick Branson", 
+        "title": "Messaging at Scale at Instagram"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/35/", 
+        "speaker": "Esther Nam", 
+        "title": "How to Except When You're Excepting"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/110/", 
+        "speaker": "\u00c5\u0081ukasz Langa", 
+        "title": "Composability Through Multiple Inheritance"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/50/", 
+        "speaker": "Jessica McKellar", 
+        "title": "How the Internet works"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/38/", 
+        "speaker": "Brandon Rhodes", 
+        "title": "The Naming of Ducks: Where Dynamic Types Meet Smart Conventions"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/48/", 
+        "speaker": "Bradley M. Kuhn", 
+        "title": "Funding and Coordinating Python Projects via Non-Profits"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/133/", 
+        "speaker": "Edgar Roman", 
+        "title": "This Old Video Site: How PBS streams video - and you can too!"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/52/", 
+        "speaker": "Bruce Eckel", 
+        "title": "Rethinking Errors: Learning from Scala and Go"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/68/", 
+        "speaker": "Augie Fackler, Nathaniel Manista", 
+        "title": "The End Of Object Inheritance & The Beginning Of A New Modularity"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/135/", 
+        "speaker": "Asheesh Laroia", 
+        "title": "Scrapy: it GETs the web"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/127/", 
+        "speaker": "Steve Dower", 
+        "title": "Windows 8 Apps and Python (Making Money in the Windows App Store)"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/44/", 
+        "speaker": "Alex Gaynor", 
+        "title": "So you want to write an interpreter?"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/46/", 
+        "speaker": "Adam Hitchcock", 
+        "title": "Making DISQUS Realtime."
+    }, 
+    {
+        "href": "/2013/schedule/presentation/39/", 
+        "speaker": "Chris McDonough", 
+        "title": "API Design for Library Authors"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/89/", 
+        "speaker": "Doug Hellmann", 
+        "title": "Better Documentation Through Automation: Creating Sphinx Extensions"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/99/", 
+        "speaker": "Jeff Rush", 
+        "title": "The Magic of Metaprogramming"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/63/", 
+        "speaker": "Thomas Hansen, Mathieu Virbel", 
+        "title": "Kivy: Building GUI and Mobile apps with Python"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/54/", 
+        "speaker": "Anna Ravenscroft", 
+        "title": "You can be a speaker at PyCon!"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/117/", 
+        "speaker": "Brett Cannon", 
+        "title": "Python 3.3: Trust Me, It's Better than 2.7"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/37/", 
+        "speaker": "Armin Rigo", 
+        "title": "PyPy without the GIL"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/40/", 
+        "speaker": "Ashwini Oruganti", 
+        "title": "Twisted Logic: Endpoints and Why You Shouldn't Be Scared of Twisted"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/132/", 
+        "speaker": "Jeff Elmore", 
+        "title": "Measuring and modeling the complexity of children's books"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/123/", 
+        "speaker": "Leonardo Rochael", 
+        "title": "sys._current_frames(): Take real-time x-rays of your software for fun and performance"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/76/", 
+        "speaker": "Ned Batchelder", 
+        "title": "Loop like a native: while, for, iterators, generators"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/112/", 
+        "speaker": "Dana Bauer, Idan Gazit", 
+        "title": "Visualizing Github, Part I: Data to Information"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/145/", 
+        "speaker": "Luciano Ramalho", 
+        "title": "Encapsulation with descriptors"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/142/", 
+        "speaker": "Erik Evensen", 
+        "title": "Fighting Cancer with Python"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/62/", 
+        "speaker": "Dino Viehland", 
+        "title": "Using futures for async GUI programming in Python 3.3"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/88/", 
+        "speaker": "Mike Bayer", 
+        "title": "The SQLAlchemy Session - In Depth"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/86/", 
+        "speaker": "Amjith Ramanujam", 
+        "title": "Python Profiling"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/108/", 
+        "speaker": "Idan Gazit, Dana Bauer", 
+        "title": "Visualizing Github, Part II: Information to Meaning"
+    }, 
+    {
+        "href": "/2013/schedule/presentation/136/", 
+        "speaker": "James Tauber", 
+        "title": "Music Theory and Performance Analysis with Sebastian and Czerny"
+    }
+]

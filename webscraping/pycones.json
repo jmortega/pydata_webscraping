@@ -1,0 +1,343 @@
+[{
+    "hour": "15:00", 
+    "description": "En la actualidad existe una variedad bastante grande de contenedores de datos para almacenar grandes cantidades de datos en Python, tanto en memoria como en disco.  En mi taller pasaremos revista a unos cuantos de los m\u00e1s \u00fatiles, empezando por los m\u00e1s b\u00e1sicos y generales (listas, diccionarios, NumPy/ndarray, pandas/DataFrames) a los m\u00e1s especializados (RDBMS, PyTables/Table/HDF5,  bcolz/carray/ctable).  Durante el camino se dar\u00e1n pistas de cuando usar unos u otros dependiendo del caso de uso.", 
+    "talk": "Usando contenedores para Big Data", 
+    "author": "Francesc Alted"
+}
+,{
+    "hour": "15:00", 
+    "description": "Taller orientado a los que quieran iniciarse en el uso de python para desarrollar funcionalidades en gvSIG, un Sistema de Informaci\u00f3n Geogr\u00e1fica libre.<br />La idea seria dividir el taller en tres bloques:<br />1.-Una introducci\u00f3n, de nivel b\u00e1sico. Veremos como manipular datos espaciales y generar nuevas capas a partir de algunas ya existentes.<br />2.-Un ejemplo de manipulaci\u00f3n de mapas, de nivel intermedio. <br />3.-Un ejemplo de creaci\u00f3n  de interfaces de usuario desde scripting, de un nivel avanzado.", 
+    "talk": "Python en gvSIG, el Sistema de Informaci\u00f3n Geogr\u00e1fica Libre", 
+    "author": "Joaqu\u00edn del Cerro"
+}
+,{
+    "hour": "15:00", 
+    "description": "En este taller llevaremos a cabo un caso pr\u00e1ctico. La construcci\u00f3n de una Single-Page Application usando Backbone como herramienta front-end. Ahora que cada d\u00eda aparece una docena de frameworks de JavaScript, suena sensato buscar algo de estabilidad en un framework de trayectoria ya constatada, como es Backbone. Por otra parte, tener un framework como Django en el back-end proporciona robustez, facilidad de uso y much\u00edsima extensibilidad -gracias al incre\u00edble ecosistema pyth\u00f3nico-.", 
+    "talk": "Single-Page Applications con Django y Backbone", 
+    "author": "Miguel S\u00e1nchez Rodr\u00edguez y Miguel Gonz\u00e1lez Nieto"
+}
+,{
+    "hour": "18:00", 
+    "description": "Bokeh ( http://bokeh.pydata.org/en/latest/ ) es una librer\u00eda de visualizaci\u00f3n de datos con una interfaz concisa y elegante que permite la construcci\u00f3n de gr\u00e1ficos preparados para la web y con interactividad out-of-the-box y sencilla.<br /><br />Dise\u00f1a avanzados dashboards en Python para un navegador web sin escribir ni una l\u00ednea de c\u00f3digo de Javascript (pero si quieres puedes ;P)<br /><br />Interactividad cliente-side, cliente-servidor, streaming, big data... Simplemente Bokeh! :)<br />", 
+    "talk": "Introducci\u00f3n a visualizaciones interactivas con Bokeh", 
+    "author": "Alejandro Vidal"
+}
+,{
+    "hour": "18:00", 
+    "description": "\u00bfQu\u00e9 es un algoritmo gen\u00e9tico? \u00bfQu\u00e9 es un sistema complejo? \u00bfC\u00f3mo puedo usarlos para resolver problemas complicados? En este taller abordaremos estos temas y aprenderemos a dise\u00f1ar y usar algoritmos de este tipo con Python.", 
+    "talk": "Simplifica tu vida con sistemas complejos y algoritmos gen\u00e9ticos", 
+    "author": "Carlos Dorado y Siro Moreno"
+}
+,{
+    "hour": "18:00", 
+    "description": "Learn async web development hands-on by using asyncio event loop in combination with subgenerator delegation syntax (yield from), creating beautiful concurrent code without writing a single callback.", 
+    "talk": "Better async code with Python 3", 
+    "author": "Anton Caceres"
+}
+,{
+    "hour": "10:00", 
+    "description": "En esta charla se presenta la experiencia de un Sysadmin utilizando Python como lenguaje de scripting avanzado.<br /><br />Se introducir\u00e1n funcionalidades b\u00e1sicas del lenguajes as\u00ed como una serie de m\u00f3dulos y trucos que facilitar\u00e1n la vida de cualquier administrador de sistemas que quiera ir m\u00e1s all\u00e1 de bash.<br /><br />Esta es la charla que me hubiera gustado escuchar cuando empec\u00e9 a escriptar mis primeras tareas para gestionar servidores y servicios y que me hubiera ahorrado tiempo y facilitado la vida.<br />", 
+    "talk": "#!/usr/bin/python (Python para Sysadmins)", 
+    "author": "Andreu Belmonte Pe\u00f1a"
+}
+,{
+    "hour": "10:00", 
+    "description": "Se introducir\u00e1 brevemente qu\u00e9 es un DSL, tipos y cu\u00e1ndo resultan interesantes, mostrando algunos ejemplos. Para pasar a describir un caso pr\u00e1ctico, creando un DSL real desde cero para procesamiento de textos, viendo como parsearlo, interpretarlo y resolver un problema de una forma distinta a la que estamos acostumbrados, d\u00e1ndole una nueva perspectiva.", 
+    "talk": "DSLs: Can&#39;t parse that!?", 
+    "author": "Miguel Araujo"
+}
+,{
+    "hour": "10:00", 
+    "description": "Do you feel lost with all the libraries being developed in the Python ecosystem for Data Science? Have you heard of scikit-learn, theano, dask, xray, blaze, gensim, bokeh, pymc3, numba, jupyter..., but don&#39;t know where to start or what each library is for? Do you ask yourself, what is Data Science anyway? Deep learning vs Machine learning? Then, this talk is for you! We&#39;ll learn what Data Science is, as well as, existing libraries, functionality and applications in the ecosystem.<br />", 
+    "talk": "Navigating the Data Science Python Ecosystem", 
+    "author": "Christine Doig"
+}
+,{
+    "hour": "10:40", 
+    "description": "Click es un paquete de Python que permite la creaci\u00f3n r\u00e1pida y bonita de interfaces de linea de comandos, utilizando pocas lineas de c\u00f3digo, de una manera bastante estructurada y componible. Click resuelve las t\u00edpicas situaciones en las que el programador se ve obligado a hacer un interfaz de comandos y termina por hacerse uno propio.", 
+    "talk": "Click: Como hacer interfaces de comandos con Python", 
+    "author": "Roberto Majadas Lopez"
+}
+,{
+    "hour": "10:40", 
+    "description": "Construir una web y soportar su crecimiento en tr\u00e1fico tiene su intr\u00edngulis. Una<br />arquitectura sencilla se ir\u00e1 complicando poco a poco a medida que crece en<br />funcionalidad y en n\u00famero de usuarios. Veremos un proyecto simpl\u00f3n, como podr\u00eda<br />empezar cualquier web que hici\u00e9semos nosotros mismos y la iremos evolucionando y<br />ampliando, descubriendo y solucionando los problemas t\u00edpicos que surgen a la<br />hora de hacer escalar una web.", 
+    "talk": "Escalando una web con python", 
+    "author": "Jose Ignacio Galarza"
+}
+,{
+    "hour": "10:40", 
+    "description": "<p>\u00bfC\u00f3mo investigar aquello con lo que no puedes experimentar? Utilizando modelos. El problema es que simular algo tan complejo como el clima requiere programas que utilizan cientos de procesadores y generan teras de resultados. En esta charla te contaremos como <a href=\"https://pypi.python.org/pypi/autosubmit\">Autosubmit</a> es capaz de manejar estos gigantescos experimentos para que los climat\u00f3logos puedan dedicarse a la ciencia sin problemas</p>", 
+    "talk": "Autosubmit: investigando el clima con Python", 
+    "author": "Javier Vegas Regidor"
+}
+,{
+    "hour": "11:50", 
+    "description": "Haz que tus programas sean reactivos a determinados eventos de red. Para ello podemos contar con el framework conocido como Twisted, durante la charla aprender\u00e1s lo b\u00e1sico para usarla.<br />Twisted es un motor orientado a eventos de redes y tiene licencia de c\u00f3digo libre (MIT).<br />", 
+    "talk": "let&#39;s Twisted again!", 
+    "author": "Israel D. Aguilar"
+}
+,{
+    "hour": "11:50", 
+    "description": "Syntactic Macros enable the programmer to manipulate the shape of the program before executing it allowing to extend the features of the language. Inspired by macropy, in this talk I explain how to get syntactic macros working with Python 3 at import time giving a couple of interesting examples.", 
+    "talk": "Syntactic Macros in Python", 
+    "author": "Salvador de la Puente Gonz\u00e1lez"
+}
+,{
+    "hour": "11:50", 
+    "description": "Social learning es una plataforma de gesti\u00f3n documental orientada al descubrimiento y clasificaci\u00f3n de recursos formativos (videos, documentos, p\u00e1ginas web, etc) a partir de b\u00fasquedas en redes sociales de forma masiva y automatizada.<br /><br />Es un proyecto libre (https://github.com/alabarga/SocialLearning) desarrollado en Python y utiliza librer\u00edas como Django, REST framework, NTLTK, Celery/Redis, etc.<br />", 
+    "talk": "SocialLearning: encontrando materiales formativos de manera colaborativa", 
+    "author": "Alberto Labarga"
+}
+,{
+    "hour": "12:30", 
+    "description": "importar m\u00f3dulos y librer\u00edas en python es una de las cosas m\u00e1s m\u00e1gicas que existen. B\u00e1sicamente funciona pero no sabemos como ni porque. En la charla se explicar\u00e1 como funciona y porque puede ser \u00fatil saber como funciona.", 
+    "talk": "La maquinaria de import, ese m\u00e1gico desconocido", 
+    "author": "Ra\u00fal Cumplido"
+}
+,{
+    "hour": "12:30", 
+    "description": "Es com\u00fan ampliar las funcionalidades de Python mediante extensiones y m\u00f3dulos externos. Tecnolog\u00edas como Cython y todo el entorno numpy son posibles mediante la integraci\u00f3n de c\u00f3digo C compilado en un programa Python en ejecuci\u00f3n. Pero es muy interesante, tambi\u00e9n, el poder incluir un int\u00e9rprete Python en un programa independiente para poder ampliar sus funcionalidades escribiendo c\u00f3digo Python en vez programando en C.", 
+    "talk": "&quot;Embedding&quot; de Python en otras aplicaciones", 
+    "author": "Jes\u00fas Cea"
+}
+,{
+    "hour": "12:30", 
+    "description": "Bokeh ( http://bokeh.pydata.org/en/latest/ ) es una librer\u00eda de visualizaci\u00f3n de datos con una interfaz concisa y elegante que permite la construcci\u00f3n de gr\u00e1ficos preparados para la web y con interactividad out-of-the-box y sencilla.<br /><br />Dise\u00f1a avanzados dashboards en Python para un navegador web sin escribir ni una l\u00ednea de c\u00f3digo de Javascript (pero si quieres puedes ;P)<br /><br />Interactividad cliente-side, cliente-servidor, streaming, big data... Simplemente Bokeh! :)<br />", 
+    "talk": "Introducci\u00f3n a visualizaciones interactivas con Bokeh", 
+    "author": "Alejandro Vidal"
+}
+,{
+    "hour": "13:10", 
+    "description": "Implementacion de varios de los elementos que componen la programacion funcional mediante Python.", 
+    "talk": "Python Funcional", 
+    "author": "Guillermo Vay\u00e1 P\u00e9rez"
+}
+,{
+    "hour": "13:10", 
+    "description": "Python tiene una gran cantidad de funcionalidades ocultas, pero a la vez a la vista de todos. Esta charla descubrir algunas de ellas explicando como funcionan, cuando tiene sentido usarlas y dando casos pr\u00e1cticos de como usarlas con ejemplos de c\u00f3digo que las usan.", 
+    "talk": "Python tips, tricks and dark magic", 
+    "author": "Jordi Soucheiron Estruch"
+}
+,{
+    "hour": "13:10", 
+    "description": "La optimizaci\u00f3n matem\u00e1tica es utilizada en la industria para la resoluci\u00f3n de diferentes problemas, que van desde la selecci\u00f3n \u00f3ptima de equipos y recursos a la gesti\u00f3n log\u00edstica de una empresa. En esta charla, estudiantes de ingenier\u00eda qu\u00edmica de la Universidad de Alicante realizar\u00e1n una introducci\u00f3n visual a conceptos de optimizaci\u00f3n, presentar\u00e1n Pyomo y mostrar\u00e1n la resoluci\u00f3n de casos de estudio de diferentes industrias mediante este lenguaje de modelado algebraico desarrollado en Python.", 
+    "talk": "Python en la industria: el problema de optimizaci\u00f3n (matem\u00e1tica) ", 
+    "author": "Daniel Domene y Carlos Planelles"
+}
+,{
+    "hour": "15:00", 
+    "description": "En esta charla veremos varios errores t\u00edpicos hechos al usar objetos mutables de Python, revisaremos 5 conceptos clave para entender lo que estaba sucediendo en cada caso y, finalmente, la forma de resolver o evitar esos errores.<br /><br />Nivel requerido: B\u00e1sico / Intermedio. Los asistentes deben saber algunos conceptos de Python como declaraci\u00f3n de clases y funciones, la herencia, atributos de clase...", 
+    "talk": "Objetos mutable e inmutables y errores t\u00edpicos", 
+    "author": "Pablo Enfedaque"
+}
+,{
+    "hour": "15:00", 
+    "description": "Muchos son los sistemas de tareas en segundo plano en Python, como por ejemplo Celery.<br />S\u00ed, en Ticketea hemos creado uno m\u00e1s, pero intentando hacerlo diferente.<br />Simple Queue Jobs intenta ser una cola de tareas sencilla y fiable que simplemente funcione y cuyo c\u00f3digo no intimide a aquellos que busquen familiarizarse con \u00e9l.", 
+    "talk": "SQJobs: Sencillo sistema de tareas en segundo plano", 
+    "author": "Federico Mon"
+}
+,{
+    "hour": "15:00", 
+    "description": "Scikit-learn has become the best known and most used package to perform it-just-works Machine Learning in Python. But what happens when you want to look into what is going on within your models to inspect and improve them? In this talk we will present the not-so-well-known packages statsmodels and patsy that can help us to achieve a better undestanding of your models and your data.", 
+    "talk": "Know your models - Statsmodels!", 
+    "author": "Israel Saeta P\u00e9rez y Miquel Camprodon"
+}
+,{
+    "hour": "15:40", 
+    "description": "El objetivo de esta charla es dar a conocer los beneficios de la revisi\u00f3n de c\u00f3digo, detallando los aspectos pr\u00e1cticos para llevar a cabo esta t\u00e9cnica de manera exitosa en proyectos colaborativos de desarrollo de software escritos en Python.", 
+    "talk": "Revisi\u00f3n de c\u00f3digo en Python", 
+    "author": "Cesar Cardenas Desales"
+}
+,{
+    "hour": "15:40", 
+    "description": "Explicaci\u00f3n de diferentes conceptos y caracteristicas de python a traves de formas de trollear a compa\u00f1eros. (monkeypatching, cache de enteros, excepciones...)", 
+    "talk": "Learning by Trolling", 
+    "author": "Jes\u00fas Espino"
+}
+,{
+    "hour": "15:40", 
+    "description": "As a python backend engineer you might end up using (or abusing) lot&#39;s of dicts and lists, iterating on them. This is mainly due their easy usage and might be also  because libraries like pandas or numpy fall down in the domain of data science.<br />We will see a real example where an old implementation is refactored to have better use of pandas and constantly comparing the performance increase.", 
+    "talk": "Data structures beyond dicts and lists", 
+    "author": "Sergi Sorribas"
+}
+,{
+    "hour": "16:50", 
+    "description": "En esta charla repasaremos el protocolo de los descriptores, casos de uso y sus aplicaciones m\u00e1s directas en la librer\u00eda est\u00e1ndar, como son properties y slots.<br /><br />La audiencia deber\u00eda tener un conocimiento medio / alto de Python y entender el data model de los objetos de Python (los magic methods).", 
+    "talk": "Python descriptors al detalle", 
+    "author": "Pablo Enfedaque"
+}
+,{
+    "hour": "16:50", 
+    "description": "Todos sabemos que cuando tenemos una aplicaci\u00f3n hecha en Django ejecut\u00e1ndose en un servidor, y le llega una petici\u00f3n, tarde o temprano nuestro c\u00f3digo se ejecutar\u00e1 y le devolveremos una respuesta al usuario, pero... \u00bfQu\u00e9 ocurre antes y despu\u00e9s de la ejecuci\u00f3n de nuestro c\u00f3digo?, \u00bfqu\u00e9 tareas hace Django por nosotros sin ni siquiera ser conscientes de ello?, \u00bfes posible modificar este comportamiento?, y lo m\u00e1s importante:  \u00bfc\u00f3mo?", 
+    "talk": "Django request-response: Un viaje de ida y vuelta", 
+    "author": "Imanol Cea"
+}
+,{
+    "hour": "16:50", 
+    "description": "La charla tendr\u00e1 como objetivo introducir la criptograf\u00eda y la seguridad desde el punto de vista del desarrollador, mostrando maneras de cifrar la informaci\u00f3n con scripts de Python y la informaci\u00f3n m\u00e1s sensible en aplicaciones web usando Django,comentando la principales vulnerabilidades que podemos encontrar en un sitio web(SQL injection,XSS, CSRF) y c\u00f3mo Django nos puede ayudar a evitar ataques que se aprovechen de estas vulnerabilidades.", 
+    "talk": "Seguridad y criptograf\u00eda en Python", 
+    "author": "Jos\u00e9 Manuel Ortega"
+}
+,{
+    "hour": "17:30", 
+    "description": "Python is a great language, but there are occasions where we need access to low<br />level operations or connect with some database driver written in C or we need to<br />overcome to some speed boottleneck in Python due to some limitation in the<br />language, like NumPy or Scikit-learn do, using extensions.<br /><br />With the FFI(Foreign function interface) we can connect Python with other<br />languages like C, C++ and even Rust or Fortran.", 
+    "talk": "Extending Python", 
+    "author": "Francisco Fern\u00e1ndez Casta\u00f1o"
+}
+,{
+    "hour": "17:30", 
+    "description": "Apache Storm es un sistema de procesamiento en tiempo real dise\u00f1ado para escalar horizontalmente de forma simple y r\u00e1pida con garant\u00eda de procesamiento. Est\u00e1 basado en Java, no obstante, permite utilizar multiples lenguajes de programaci\u00f3n, incluido Python, de forma que no necesites usar Java para nada. En esta charla explicar\u00e9 el caso de uso de Server Density para el procesamiento de &quot;payloads&quot; para la monitorizaci\u00f3n de servidores.", 
+    "talk": "Integrando Apache Storm como servidor de aplicaciones Python", 
+    "author": "Carlos Perell\u00f3 Mar\u00edn"
+}
+,{
+    "hour": "17:30", 
+    "description": "PhaseSpace es un programa dise\u00f1ado para analizar sistemas din\u00e1micos de un modo sencillo. Para ello dibuja el mapa de fases de dicho sistema y adem\u00e1s permite dibujar los puntos cr\u00edticos y las curvas de pendiente 0 e infinito, tanto expl\u00edcitas como impl\u00edcitas, as\u00ed como el campo vectorial y las soluciones del sistema que queremos estudiar. Tambi\u00e9n permite seleccionar el m\u00e9todo num\u00e9rico para realizar los c\u00e1lculos y cambiar los ejes y el paso de integraci\u00f3n.", 
+    "talk": "PhaseSpace un programa para analizar sistemas din\u00e1micos", 
+    "author": "Anton Ferr\u00e9 Pujol"
+}
+,{
+    "hour": "09:20", 
+    "description": "En esta charla se presentar\u00e1 de manera resumida un caso real: el proceso de implantaci\u00f3n de ElasticSearch en una aplicaci\u00f3n de Django. Partiendo de la motivaci\u00f3n de implementar un buscador, veremos los problemas encontrados por nuestro equipo (\u00a1y sus soluciones!). A saber: instalaci\u00f3n, definici\u00f3n de los documentos, modo de conexi\u00f3n, indexado, particionado y sincron\u00eda con nuestra base de datos.", 
+    "talk": "Implantaci\u00f3n de ElasticSearch: problemas y soluciones", 
+    "author": "Miguel S\u00e1nchez Rodr\u00edguez y Miguel Gonz\u00e1lez Nieto"
+}
+,{
+    "hour": "09:20", 
+    "description": "El crecimiento exponencial de Ticketbis nos exige una arquitectura que pueda escalar horizontalmente. Teniendo en cuenta que servimos casi 1M de tickets en 50 idiomas y 35 divisas diferentes, la desnormalizaci\u00f3n de los datos y su correspondiente cacheo eran necesarios. \u00bfQuer\u00e9is saber c\u00f3mo lo hacemos sin un solo hit a la base de datos? Os doy una pista: demonios pyth\u00f3nicos + Redis + Elasticsearch.", 
+    "talk": "Sirviendo 1M de tickets en 50 idiomas y 35 divisas", 
+    "author": "Jose Gargallo"
+}
+,{
+    "hour": "09:20", 
+    "description": "La simulaci\u00f3n num\u00e9rica directa de flujos turbulentos es una disciplina particularmente exigente en lo que respecta a manejo de datos a gran escala. Las simulaciones que llevamos a cabo en el grupo de investigaci\u00f3n guardan del orden de centenares de terabytes de datos, y su proceso suele generar entre dos y tres veces esta cantidad. Despu\u00e9s del primer a\u00f1o de tesis doctoral decid\u00ed ponerme de conejillo de indias para comprobar si Python es en la pr\u00e1ctica tan bueno como se dice en teor\u00eda.", 
+    "talk": "Es posible hacer una tesis doctoral en turbulencia con Python", 
+    "author": "Guillem Borrell Nogueras"
+}
+,{
+    "hour": "10:00", 
+    "description": "En esta charla veremos como es posible crear un bot para Telegram utilizando la libreria pyTelegramBotAPI y Telegram Bot API. Se mostraran los pasos a seguir para crear un bot sencillo que pueda aceptar interacci\u00f3n del usuario", 
+    "talk": "Como crear un bot para Telegram", 
+    "author": "Urtzi Odriozola Lizaso"
+}
+,{
+    "hour": "10:00", 
+    "description": "En esta charla veremos como usar python3 con asyncio, websockets y redis para<br />construir un servicio distribuido de colas virtuales con los que controlar de<br />forma ordenada el acceso a un servicio con elevada carga pico.", 
+    "talk": "asyncIO: p\u00f3ngase a la cola por favor", 
+    "author": "Miguel Araujo y Jose Ignacio Galarza"
+}
+,{
+    "hour": "10:00", 
+    "description": "Thumbor es un servidor de im\u00e1genes escrito en python. Es capaz de procesar im\u00e1genes bajo demanda e incluye funcionalidad de procesado (con opencv) para adaptar las redimensiones de manera inteligente. <br />En esta charla introducir\u00e9 su utilizaci\u00f3n y entresijos con el despliegue. ", 
+    "talk": "Thumbor, el servidor de im\u00e1genes libre e inteligente", 
+    "author": "Edu Herraiz"
+}
+,{
+    "hour": "10:40", 
+    "description": "Plone es un gestor de documental y contenidos con m\u00e1s de 10 a\u00f1os de recorrido. Creado inicialmente como una &quot;cara bonita&quot; del Content Management Framework ha evolucionado hasta nuestros d\u00edas para traer una experiencia de uso y funcionalidades del m\u00e1s alto nivel.<br /><br />Con las \u00faltimas modificaciones realizadas durante el desarrollo, est\u00e1 a punto de publicarse la versi\u00f3n 5 de este CMS, \u00edntegramente escrito en Python, y que presentaremos en esta charla.", 
+    "talk": "Plone 5: el CMS del futuro, en el presente.", 
+    "author": "Mikel Larreategi"
+}
+,{
+    "hour": "10:40", 
+    "description": "Python es un lenguaje de programaci\u00f3n con muchas funcionalidades interesantes. Sin embargo, existen ciertas features habituales en otros lenguajes de programaci\u00f3n que no tienen cabida en este: sobrecarga de m\u00e9todos, un operador para la composici\u00f3n de funciones, comprobaci\u00f3n de tipos...<br /><br />En esta charla veremos c\u00f3mo podemos conseguir estas funcionalidades utilizando decorators e inspeccionando los objectos que representan a las funciones.", 
+    "talk": "Un python nuevo para ti: decorators", 
+    "author": "Braulio Valdivielso"
+}
+,{
+    "hour": "10:40", 
+    "description": "La charla mostar\u00e1 c\u00f3mo introducir el aprendizaje autom\u00e1tico en cualquier proyecto usando plataformas de SAAS accesibles via API. En particular, nos centraremos en el caso de los servicios disponibles en BigML. Veremos como acceder a ellos a distintos niveles: usando los bindings para Python y tambi\u00e9n mediante un DSL en l\u00ednea de comandos.", 
+    "talk": "Machine Learning in the Cloud with Python", 
+    "author": "Merc\u00e8 Martin"
+}
+,{
+    "hour": "11:50", 
+    "description": "Usar lo que nos ofrece python para volver scripts imperativos en funcionales* y trollear a los colegas<br /><br />*Ciertas restricciones aplican", 
+    "talk": "Funcional para trollear", 
+    "author": "Alejandro Brito Monedero"
+}
+,{
+    "hour": "11:50", 
+    "description": "El m\u00f3dulo &quot;tracemalloc&quot;, a\u00f1adido a la librer\u00eda est\u00e1ndar en Python 3.4, permite monitorizar el uso de memoria y nos ayuda a diagnosticar y solucionar &quot;Memory Leaks&quot;. Su utilidad es indudable, pero su uso est\u00e1 poco difundido.", 
+    "talk": "El m\u00f3dulo &quot;tracemalloc&quot;", 
+    "author": "Jes\u00fas Cea"
+}
+,{
+    "hour": "11:50", 
+    "description": "La inmensa mayor\u00eda del contenido que se crea diariamente en Internet es desestructurado. Aproximadamente el 90% del mismo es texto. En la era de la web colaborativa, usamos el lenguaje constantemente, por ejemplo, para escribir una cr\u00edtica de un producto, comentar una foto o escribir un tweet. Esta informaci\u00f3n es tremendamente valiosa en muchos sentidos. En esta charla veremos algunas de las herramientas que ofrece el ecosistema Python para comprender, estructurar y extraer valor de un texto.", 
+    "talk": "Trolling Detection with Scikit-learn and NLTK", 
+    "author": "Rafa Haro"
+}
+,{
+    "hour": "12:30", 
+    "description": "How do you let untrained people in your company run sensitive processes on different remote servers? Processes that must run asynchronously and sequentially while accessing different common resources? And how do you do it quickly and make it robust? I will show how we used Django, SQS and Boto to create a distributed and decoupled solution that let users invoke services asynchronously, which is secure, scalable and ensures that processes using common resources ran in sequence.", 
+    "talk": "Having it All: Distributed services with Django, Boto, and SQS queues", 
+    "author": "Julio Vicente Trigo Guijarro"
+}
+,{
+    "hour": "12:30", 
+    "description": "El objetivo de la charla es mostrar algunos de los sistemas ORM que podemos encontrar dentro del ecosistema de Python como Sqlalchemy, Storm, Sqlobject, Django ORM,realizando una comparativa entre ellos,mostrando ventajas y desventajas de cada uno.<br />Algunas de las caracter\u00edsticas a comparar son performance, eficiencia, tratamiento de cach\u00e9, consultas.<br />Por ultimo, se comentar\u00e1n las ventajas que aportan estos sistemas para la seguridad de la aplicaciones web con Django.<br />", 
+    "talk": "Comparing Python ORM", 
+    "author": "Jos\u00e9 Manuel Ortega"
+}
+,{
+    "hour": "12:30", 
+    "description": "En la era del &#39;Big Data&#39; se necesitan cantidades cada vez m\u00e1s grandes de memoria (RAM) para tratar y analizar estos datos.  Pero tarde o temprano se llega a unos l\u00edmites por encima de los cuales no se puede (o es muy caro) pasar.<br /><br />El compresor Blosc (blosc.org) y el contenedor de datos bcolz (bcolz.blosc.org), usan las capacidades de los ordenadores modernos (caches, procesadores multihilo y SSDs) para permitir tratar datos m\u00e1s all\u00e1 los l\u00edmites de la memoria.<br />", 
+    "talk": "Tratando datos m\u00e1s all\u00e1 de los l\u00edmites de la memoria", 
+    "author": "Francesc Alted"
+}
+,{
+    "hour": "13:10", 
+    "description": "Los lenguajes espec\u00edficos de dominio son lenguajes especializados, simplificados y limitados a la resoluci\u00f3n de problemas de un dominio concreto. Usados correctamente mejoran la productividad de los desarrolladores, as\u00ed como la comunicaci\u00f3n con los usuarios o expertos de otros dominios, entre otras ventajas. En esta charla introductoria veremos qu\u00e9 son, para qu\u00e9 sirven, en qu\u00e9 casos usarlos y algunas librer\u00edas de Python que nos facilitar\u00e1n crear nuestros propios lenguajes espec\u00edficos de dominio.", 
+    "talk": "Introducci\u00f3n a los DSL (Domain Specific Languages) en Python", 
+    "author": "Juan Ignacio Rodr\u00edguez de Le\u00f3n"
+}
+,{
+    "hour": "13:10", 
+    "description": "Seg\u00fan wikipedia: ?La metaprogramaci\u00f3n consiste en escribir programas que escriben o manipulan otros programas (o a s\u00ed mismos) como datos, o que hacen en tiempo de compilaci\u00f3n parte del trabajo que, de otra forma, se har\u00eda en tiempo de ejecuci\u00f3n. Esto permite al programador ahorrar tiempo en la producci\u00f3n de c\u00f3digo.? En esta charla veremos diferentes mecanismos que Python proporciona como: - Decoradores - Metaclasses.", 
+    "talk": "Metaprogramaci\u00f3n en Python", 
+    "author": "Ra\u00fal Cumplido"
+}
+,{
+    "hour": "13:10", 
+    "description": "Scrapy is a fast high-level screen scraping and web crawling framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.<br /><br />In this talk some advanced techniques will be shown based on how Scrapy is used at Scrapinghub.<br />", 
+    "talk": "Dive into Scrapy", 
+    "author": "Juan Riaza"
+}
+,{
+    "hour": "15:00", 
+    "description": "Sometimes is good to know what&#39;s happening under the hood, <br />this talk will explain how CPython works internally since <br />we type `python myprogram.py` until our code is finally executed<br />explaining the process that CPython does to run our programs.<br /><br />The goal of this talk is explain people how to explore the code<br />of the interpreter itself using some common tools and let regular<br />Python developers that aren&#39;t used to work with C lose the fear<br />about looking under the hood.", 
+    "talk": "Life of a Python program", 
+    "author": "Francisco Fern\u00e1ndez Casta\u00f1o"
+}
+,{
+    "hour": "15:00", 
+    "description": "Taiga es una herramienta de gesti\u00f3n \u00e1gil de proyectos donde prima ante todo la experiencia de usuario.<br /> En esta charla tratar\u00e9 de mostrar c\u00f3mo puedes desarrollar nuevas funcionalidades para ti, tu organizaci\u00f3n o comunidad, sin necesidad de modificar el core de Taiga.", 
+    "talk": "Hacking the Taiga", 
+    "author": "David Barrag\u00e1n Merino"
+}
+,{
+    "hour": "15:00", 
+    "description": "Fiona y Shapely son la puerta de entrada al an\u00e1lisis de datos geogr\u00e1ficos con Python. En la charla haremos una introducci\u00f3n b\u00e1sica a su uso y realizaremos un peque\u00f1o mapa de dmostaci\u00f3n.", 
+    "talk": "Fiona y Shapely, la punta del iceberg del an\u00e1lisis de datos geogr\u00e1ficos con Python", 
+    "author": "Geoinquietos Valencia"
+}
+,{
+    "hour": "15:40", 
+    "description": "Case study of Immfly?s Wireless In-Flight Entertainment system, built using Python.", 
+    "talk": "Python in the Sky", 
+    "author": "David Arcos"
+}
+,{
+    "hour": "15:40", 
+    "description": "AMQP as standard application layer protocol is widely used to design backends where business logic is spread around different processes using a broker to link them, usually RabbitMQ. AMQP  allows us to use different design patterns than the traditional monolithic backends, where part of your business logic is designed as entities of the AMQP topology. In this talk we will talk about the Python drivers such as Celery, Pika and others, and how they can be used to get the full power of the AMQP.", 
+    "talk": "Amqp from Python, advanced design patterns", 
+    "author": "Pau Freixes, Arnau Orriols"
+}
+,{
+    "hour": "15:40", 
+    "description": "En esta charla atenderemos a la construcci\u00f3n de un raytracer relativista en Python. Nuestro objetivo ser\u00e1 conseguir im\u00e1genes similares a las observadas en la pel\u00edcula Interestellar, mediante la creaci\u00f3n de im\u00e1genes sint\u00e9ticas en un entorno de gravedad extrema, como es un agujero negro. Utilizando esto como excusa, analizaremos distintos enfoques para optimizar nuestro c\u00f3digo al m\u00e1ximo y conseguir programas eficientes y profesionales a la altura de cualquier otro lenguaje de programaci\u00f3n.", 
+    "talk": "Agujeros negros y optimizaci\u00f3n de c\u00f3digo en python", 
+    "author": "Pablo Galindo Salgado"
+}
+]

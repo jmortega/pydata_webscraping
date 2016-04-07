@@ -1,0 +1,23 @@
+2016-04-03 15:34:16,345 INFO Downloading http://pydata.org/madrid2016/schedule/ 
+2016-04-03 15:46:38,690 INFO Downloading http://pydata.org/madrid2016/schedule//madrid2016/schedule/presentation/5/ 
+2016-04-03 15:46:39,197 WARNING Download error: http://pydata.org/madrid2016/schedule//madrid2016/schedule/presentation/5/ HTTP Error 404: NOT FOUND
+2016-04-03 15:46:44,582 INFO Downloading http://pydata.org/madrid2016/schedule//madrid2016/schedule/presentation/4/ 
+2016-04-03 15:46:45,112 WARNING Download error: http://pydata.org/madrid2016/schedule//madrid2016/schedule/presentation/4/ HTTP Error 404: NOT FOUND
+2016-04-03 15:46:49,055 INFO Downloading http://pydata.org/madrid2016/schedule//madrid2016/schedule/presentation/13/ 
+2016-04-03 15:46:49,578 WARNING Download error: http://pydata.org/madrid2016/schedule//madrid2016/schedule/presentation/13/ HTTP Error 404: NOT FOUND
+2016-04-03 15:46:54,526 INFO Downloading http://pydata.org/madrid2016/schedule//madrid2016/schedule/presentation/9/ 
+2016-04-03 15:46:55,006 WARNING Download error: http://pydata.org/madrid2016/schedule//madrid2016/schedule/presentation/9/ HTTP Error 404: NOT FOUND
+2016-04-03 15:47:17,440 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/5/ 
+2016-04-03 15:47:22,493 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/4/ 
+2016-04-03 15:47:28,265 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/13/ 
+2016-04-03 15:47:34,030 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/9/ 
+2016-04-03 15:47:39,114 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/3/ 
+2016-04-03 15:49:11,743 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/14/ 
+2016-04-03 15:49:17,032 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/20/ 
+2016-04-03 15:49:21,667 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/7/ 
+2016-04-03 15:49:27,802 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/1/ 
+2016-04-03 15:49:34,450 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/6/ 
+2016-04-03 15:49:40,349 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/11/ 
+2016-04-03 15:49:45,555 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/12/ 
+2016-04-03 15:49:50,289 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/8/ 
+2016-04-03 15:49:56,289 INFO Downloading http://pydata.org//madrid2016/schedule/presentation/24/ 

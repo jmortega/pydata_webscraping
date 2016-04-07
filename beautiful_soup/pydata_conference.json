@@ -1,0 +1,71 @@
+[{
+    "url": "/madrid2016/schedule/presentation/5/", 
+    "speaker": "Marc Garcia", 
+    "talk": "Understanding Random Forests"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/4/", 
+    "speaker": "Juan Luis Cano Rodr\u00edguez", 
+    "talk": "Embrace conda packages: the build system we always needed, but never deserved"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/13/", 
+    "speaker": "Manuel Garrido Pena", 
+    "talk": "A Primer on Recommendation Systems (Talk)"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/9/", 
+    "speaker": "Jose Manuel Ortega", 
+    "talk": "Python tools for webscraping"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/3/", 
+    "speaker": "Tom\u00e1s G\u00f3mez Alvarez-Arenas", 
+    "talk": "The solution of inverse problems."
+}
+,{
+    "url": "/madrid2016/schedule/presentation/14/", 
+    "speaker": "Pablo Manuel Garc\u00eda Corzo", 
+    "talk": "Towards a full stack python monitoring+analytics framework"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/20/", 
+    "speaker": "Ant\u00f2nia Tugores", 
+    "talk": "City attractiveness seen through Twitter"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/7/", 
+    "speaker": "Nathan Epstein", 
+    "talk": "Reinforcement Learning in Python"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/1/", 
+    "speaker": "Jaime Fern\u00e1ndez", 
+    "talk": "The Future of NumPy Indexing"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/6/", 
+    "speaker": "Claudia Guirao Fern\u00e1ndez", 
+    "talk": "Whoosh: a fast pure-Python search engine library"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/11/", 
+    "speaker": "Miguel S\u00e1nchez de Le\u00f3n Peque", 
+    "talk": "Python for developing a real-time automated trading platform"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/12/", 
+    "speaker": "Ricardo Pio Monti", 
+    "talk": "Modelling a text corpus using Deep Boltzmann Machines in python"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/8/", 
+    "speaker": "Jes\u00fas Martos Carrizo, Alejandro S\u00e1ez Mollejo", 
+    "talk": "Remove before flight: Analysing flight safety data with Python"
+}
+,{
+    "url": "/madrid2016/schedule/presentation/24/", 
+    "speaker": "Jes\u00fas S\u00e1nchez", 
+    "talk": "An Architecture to Tweet Them All"
+}
+]
